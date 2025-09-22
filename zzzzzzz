@@ -1,0 +1,61 @@
+{
+  "log": {
+    "access": "/var/log/v2ray/access.log",
+    "error": "/var/log/v2ray/error.log",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "port": 1080,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "ip": "127.0.0.1"
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "vpn-14.tgvpnbot.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "94ad3f54-c3ac-11ef-9af8-0242ac120003",
+                "flow": "xtls-rprx-vision",
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        },
+        "realitySettings": {
+          "dest": "dev.memfis.me:443",
+          "publicKey": "XTSLsJkz4YjQiCdxr2WxZy5MIqMYxKXQp2-IDv9w2C8",
+          "shortId": [
+            "0a545c1781dcec"
+          ],
+          "serverName": "dev.memfis.me",
+          "spiderX": ""
+        }
+      }
+    },
+    {
+      "protocol": "freedom",
+      "settings": {}
+    }
+  ]
+}
