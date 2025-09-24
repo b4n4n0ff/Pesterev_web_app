@@ -1,4 +1,1 @@
-# Pesterev_web_app
-vless://94ad3f54-c3ac-11ef-9af8-0242ac120003@vpn-14.tgvpnbot.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dev.memfis.me&fp=chrome&security=reality&pbk=XTSLsJkz4YjQiCdxr2WxZy5MIqMYxKXQp2-IDv9w2C8&sid=0a545c1781dcec#%F0%9F%87%B1%F0%9F%87%BBLV%231%20%C2%B7%20tgvpnbot-pro
-vless://94ad3f54-c3ac-11ef-9af8-0242ac120003@vpn-14.tgvpnbot.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dev.memfis.me&fp=chrome&security=reality&pbk=XTSLsJkz4YjQiCdxr2WxZy5MIqMYxKXQp2-IDv9w2C8&sid=0a545c1781dcec#%F0%9F%87%B1%F0%9F%87%BBLV%231%20%C2%B7%20tgvpnbot-pro
-vless://94ad3f54-c3ac-11ef-9af8-0242ac120003@vpn-14.tgvpnbot.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dev.memfis.me&fp=chrome&security=reality&pbk=XTSLsJkz4YjQiCdxr2WxZy5MIqMYxKXQp2-IDv9w2C8&sid=0a545c1781dcec#%F0%9F%87%B1%F0%9F%87%BBLV%231%20%C2%B7%20tgvpnbot-pro
+
